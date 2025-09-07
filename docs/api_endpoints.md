@@ -10,7 +10,7 @@
   - GET `https://api.binance.com/api/v3/depth?symbol=BTCUSDT&limit=5`
 
 ### Trading (requires API key + HMAC)
-- Place order: POST `/api/v3/order`
+- Place order: POST `/api/v3/order``
 - Cancel order: DELETE `/api/v3/order`
 - Account info/balances: GET `/api/v3/account`
 
@@ -77,3 +77,13 @@ Rate limits: endpoint-specific; use backoff and idempotency keys where available
 - Start with public data endpoints for health checks and latency baselines.
 - Production trading requires authenticated flows, clock sync, and robust error handling.
 
+---
+
+## Latency benchmarks (50 trials)
+
+Artifacts:
+- `test/latency/results/httpx_50.json`
+- `test/latency/results/requests_50.json`
+- `test/latency/results/ccxt_50.json`
+
+These contain aggregated avg/min/max and success rate per endpoint/exchange from local runs.

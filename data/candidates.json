@@ -1,0 +1,2431 @@
+[
+  {
+    "symbol": "1INCH/USDT",
+    "binance_volume_usd": 5293773.47,
+    "bybit_volume_usd": 1058125.38,
+    "binance_symbol_raw": "1INCHUSDT",
+    "bybit_symbol_raw": "1INCHUSDT"
+  },
+  {
+    "symbol": "A/USDT",
+    "binance_volume_usd": 3793712.35,
+    "bybit_volume_usd": 816587.66,
+    "binance_symbol_raw": "AUSDT",
+    "bybit_symbol_raw": "AUSDT"
+  },
+  {
+    "symbol": "A2Z/USDT",
+    "binance_volume_usd": 5232675.36,
+    "bybit_volume_usd": 535300.75,
+    "binance_symbol_raw": "A2ZUSDT",
+    "bybit_symbol_raw": "A2ZUSDT"
+  },
+  {
+    "symbol": "AAVE/USDT",
+    "binance_volume_usd": 113017730.87,
+    "bybit_volume_usd": 37076041.58,
+    "binance_symbol_raw": "AAVEUSDT",
+    "bybit_symbol_raw": "AAVEUSDT"
+  },
+  {
+    "symbol": "ACT/USDT",
+    "binance_volume_usd": 4879887.5,
+    "bybit_volume_usd": 326032.06,
+    "binance_symbol_raw": "ACTUSDT",
+    "bybit_symbol_raw": "ACTUSDT"
+  },
+  {
+    "symbol": "ADA/USDT",
+    "binance_volume_usd": 242312843.44,
+    "bybit_volume_usd": 92330451.63,
+    "binance_symbol_raw": "ADAUSDT",
+    "bybit_symbol_raw": "ADAUSDT"
+  },
+  {
+    "symbol": "AERGO/USDT",
+    "binance_volume_usd": 1440616.74,
+    "bybit_volume_usd": 388310.22,
+    "binance_symbol_raw": "AERGOUSDT",
+    "bybit_symbol_raw": "AERGOUSDT"
+  },
+  {
+    "symbol": "AERO/USDT",
+    "binance_volume_usd": 15974329.94,
+    "bybit_volume_usd": 9618091.94,
+    "binance_symbol_raw": "AEROUSDT",
+    "bybit_symbol_raw": "AEROUSDT"
+  },
+  {
+    "symbol": "AEVO/USDT",
+    "binance_volume_usd": 3526843.3,
+    "bybit_volume_usd": 429142.8,
+    "binance_symbol_raw": "AEVOUSDT",
+    "bybit_symbol_raw": "AEVOUSDT"
+  },
+  {
+    "symbol": "AGLD/USDT",
+    "binance_volume_usd": 1639151.19,
+    "bybit_volume_usd": 525259.3,
+    "binance_symbol_raw": "AGLDUSDT",
+    "bybit_symbol_raw": "AGLDUSDT"
+  },
+  {
+    "symbol": "AGT/USDT",
+    "binance_volume_usd": 5956534.7,
+    "bybit_volume_usd": 1003664.58,
+    "binance_symbol_raw": "AGTUSDT",
+    "bybit_symbol_raw": "AGTUSDT"
+  },
+  {
+    "symbol": "AI/USDT",
+    "binance_volume_usd": 7580583.11,
+    "bybit_volume_usd": 762638.66,
+    "binance_symbol_raw": "AIUSDT",
+    "bybit_symbol_raw": "AIUSDT"
+  },
+  {
+    "symbol": "AI16Z/USDT",
+    "binance_volume_usd": 16345435.49,
+    "bybit_volume_usd": 14628294.62,
+    "binance_symbol_raw": "AI16ZUSDT",
+    "bybit_symbol_raw": "AI16ZUSDT"
+  },
+  {
+    "symbol": "AIN/USDT",
+    "binance_volume_usd": 1943433.55,
+    "bybit_volume_usd": 497745.04,
+    "binance_symbol_raw": "AINUSDT",
+    "bybit_symbol_raw": "AINUSDT"
+  },
+  {
+    "symbol": "AIO/USDT",
+    "binance_volume_usd": 8444658.63,
+    "bybit_volume_usd": 1423007.69,
+    "binance_symbol_raw": "AIOUSDT",
+    "bybit_symbol_raw": "AIOUSDT"
+  },
+  {
+    "symbol": "AIXBT/USDT",
+    "binance_volume_usd": 22703616.19,
+    "bybit_volume_usd": 5088233.05,
+    "binance_symbol_raw": "AIXBTUSDT",
+    "bybit_symbol_raw": "AIXBTUSDT"
+  },
+  {
+    "symbol": "ALCH/USDT",
+    "binance_volume_usd": 2145324.66,
+    "bybit_volume_usd": 1376952.5,
+    "binance_symbol_raw": "ALCHUSDT",
+    "bybit_symbol_raw": "ALCHUSDT"
+  },
+  {
+    "symbol": "ALGO/USDT",
+    "binance_volume_usd": 16629463.53,
+    "bybit_volume_usd": 6062311.33,
+    "binance_symbol_raw": "ALGOUSDT",
+    "bybit_symbol_raw": "ALGOUSDT"
+  },
+  {
+    "symbol": "ALICE/USDT",
+    "binance_volume_usd": 4262864.65,
+    "bybit_volume_usd": 446709.54,
+    "binance_symbol_raw": "ALICEUSDT",
+    "bybit_symbol_raw": "ALICEUSDT"
+  },
+  {
+    "symbol": "ALPINE/USDT",
+    "binance_volume_usd": 14598272.58,
+    "bybit_volume_usd": 1896136.68,
+    "binance_symbol_raw": "ALPINEUSDT",
+    "bybit_symbol_raw": "ALPINEUSDT"
+  },
+  {
+    "symbol": "ALT/USDT",
+    "binance_volume_usd": 6582643.57,
+    "bybit_volume_usd": 1194852.71,
+    "binance_symbol_raw": "ALTUSDT",
+    "bybit_symbol_raw": "ALTUSDT"
+  },
+  {
+    "symbol": "ANIME/USDT",
+    "binance_volume_usd": 3530525.59,
+    "bybit_volume_usd": 604111.71,
+    "binance_symbol_raw": "ANIMEUSDT",
+    "bybit_symbol_raw": "ANIMEUSDT"
+  },
+  {
+    "symbol": "APE/USDT",
+    "binance_volume_usd": 9563411.32,
+    "bybit_volume_usd": 3174025.91,
+    "binance_symbol_raw": "APEUSDT",
+    "bybit_symbol_raw": "APEUSDT"
+  },
+  {
+    "symbol": "API3/USDT",
+    "binance_volume_usd": 152952560.08,
+    "bybit_volume_usd": 37874573.39,
+    "binance_symbol_raw": "API3USDT",
+    "bybit_symbol_raw": "API3USDT"
+  },
+  {
+    "symbol": "APT/USDT",
+    "binance_volume_usd": 37123235.93,
+    "bybit_volume_usd": 14072111.55,
+    "binance_symbol_raw": "APTUSDT",
+    "bybit_symbol_raw": "APTUSDT"
+  },
+  {
+    "symbol": "AR/USDT",
+    "binance_volume_usd": 9472027.93,
+    "bybit_volume_usd": 1418730.53,
+    "binance_symbol_raw": "ARUSDT",
+    "bybit_symbol_raw": "ARUSDT"
+  },
+  {
+    "symbol": "ARB/USDT",
+    "binance_volume_usd": 95497355.12,
+    "bybit_volume_usd": 34740214.44,
+    "binance_symbol_raw": "ARBUSDT",
+    "bybit_symbol_raw": "ARBUSDT"
+  },
+  {
+    "symbol": "ARC/USDT",
+    "binance_volume_usd": 5777843.6,
+    "bybit_volume_usd": 1652342.79,
+    "binance_symbol_raw": "ARCUSDT",
+    "bybit_symbol_raw": "ARCUSDT"
+  },
+  {
+    "symbol": "ARIA/USDT",
+    "binance_volume_usd": 44885730.2,
+    "bybit_volume_usd": 8413027.33,
+    "binance_symbol_raw": "ARIAUSDT",
+    "bybit_symbol_raw": "ARIAUSDT"
+  },
+  {
+    "symbol": "ARKM/USDT",
+    "binance_volume_usd": 14663399.69,
+    "bybit_volume_usd": 2429787.55,
+    "binance_symbol_raw": "ARKMUSDT",
+    "bybit_symbol_raw": "ARKMUSDT"
+  },
+  {
+    "symbol": "ASR/USDT",
+    "binance_volume_usd": 5394093.74,
+    "bybit_volume_usd": 461777.3,
+    "binance_symbol_raw": "ASRUSDT",
+    "bybit_symbol_raw": "ASRUSDT"
+  },
+  {
+    "symbol": "ATH/USDT",
+    "binance_volume_usd": 894147.48,
+    "bybit_volume_usd": 431148.54,
+    "binance_symbol_raw": "ATHUSDT",
+    "bybit_symbol_raw": "ATHUSDT"
+  },
+  {
+    "symbol": "ATOM/USDT",
+    "binance_volume_usd": 31052056.05,
+    "bybit_volume_usd": 12361720.07,
+    "binance_symbol_raw": "ATOMUSDT",
+    "bybit_symbol_raw": "ATOMUSDT"
+  },
+  {
+    "symbol": "AUCTION/USDT",
+    "binance_volume_usd": 3999512.51,
+    "bybit_volume_usd": 771843.04,
+    "binance_symbol_raw": "AUCTIONUSDT",
+    "bybit_symbol_raw": "AUCTIONUSDT"
+  },
+  {
+    "symbol": "AVAAI/USDT",
+    "binance_volume_usd": 7235961.42,
+    "bybit_volume_usd": 1325311.12,
+    "binance_symbol_raw": "AVAAIUSDT",
+    "bybit_symbol_raw": "AVAAIUSDT"
+  },
+  {
+    "symbol": "AVAX/USDT",
+    "binance_volume_usd": 212880228.17,
+    "bybit_volume_usd": 46284885.12,
+    "binance_symbol_raw": "AVAXUSDT",
+    "bybit_symbol_raw": "AVAXUSDT"
+  },
+  {
+    "symbol": "AXL/USDT",
+    "binance_volume_usd": 3841702.23,
+    "bybit_volume_usd": 848732.98,
+    "binance_symbol_raw": "AXLUSDT",
+    "bybit_symbol_raw": "AXLUSDT"
+  },
+  {
+    "symbol": "AXS/USDT",
+    "binance_volume_usd": 23592206.13,
+    "bybit_volume_usd": 5414110.07,
+    "binance_symbol_raw": "AXSUSDT",
+    "bybit_symbol_raw": "AXSUSDT"
+  },
+  {
+    "symbol": "B/USDT",
+    "binance_volume_usd": 6881926.48,
+    "bybit_volume_usd": 1176664.45,
+    "binance_symbol_raw": "BUSDT",
+    "bybit_symbol_raw": "BUSDT"
+  },
+  {
+    "symbol": "B2/USDT",
+    "binance_volume_usd": 3872905.69,
+    "bybit_volume_usd": 670860.24,
+    "binance_symbol_raw": "B2USDT",
+    "bybit_symbol_raw": "B2USDT"
+  },
+  {
+    "symbol": "BABY/USDT",
+    "binance_volume_usd": 5175141.16,
+    "bybit_volume_usd": 979285.68,
+    "binance_symbol_raw": "BABYUSDT",
+    "bybit_symbol_raw": "BABYUSDT"
+  },
+  {
+    "symbol": "BAKE/USDT",
+    "binance_volume_usd": 21136533.55,
+    "bybit_volume_usd": 9215536.57,
+    "binance_symbol_raw": "BAKEUSDT",
+    "bybit_symbol_raw": "BAKEUSDT"
+  },
+  {
+    "symbol": "BAN/USDT",
+    "binance_volume_usd": 4860092.16,
+    "bybit_volume_usd": 2101993.59,
+    "binance_symbol_raw": "BANUSDT",
+    "bybit_symbol_raw": "BANUSDT"
+  },
+  {
+    "symbol": "BANANA/USDT",
+    "binance_volume_usd": 4505516.2,
+    "bybit_volume_usd": 465099.42,
+    "binance_symbol_raw": "BANANAUSDT",
+    "bybit_symbol_raw": "BANANAUSDT"
+  },
+  {
+    "symbol": "BANANAS31/USDT",
+    "binance_volume_usd": 6415096.09,
+    "bybit_volume_usd": 1213787.49,
+    "binance_symbol_raw": "BANANAS31USDT",
+    "bybit_symbol_raw": "BANANAS31USDT"
+  },
+  {
+    "symbol": "BAND/USDT",
+    "binance_volume_usd": 11326324.95,
+    "bybit_volume_usd": 1345567.15,
+    "binance_symbol_raw": "BANDUSDT",
+    "bybit_symbol_raw": "BANDUSDT"
+  },
+  {
+    "symbol": "BANK/USDT",
+    "binance_volume_usd": 4197717.1,
+    "bybit_volume_usd": 1635505.33,
+    "binance_symbol_raw": "BANKUSDT",
+    "bybit_symbol_raw": "BANKUSDT"
+  },
+  {
+    "symbol": "BAT/USDT",
+    "binance_volume_usd": 2384729.42,
+    "bybit_volume_usd": 491817.2,
+    "binance_symbol_raw": "BATUSDT",
+    "bybit_symbol_raw": "BATUSDT"
+  },
+  {
+    "symbol": "BB/USDT",
+    "binance_volume_usd": 33083414.8,
+    "bybit_volume_usd": 6849849.84,
+    "binance_symbol_raw": "BBUSDT",
+    "bybit_symbol_raw": "BBUSDT"
+  },
+  {
+    "symbol": "BCH/USDT",
+    "binance_volume_usd": 163911947.26,
+    "bybit_volume_usd": 31502194.2,
+    "binance_symbol_raw": "BCHUSDT",
+    "bybit_symbol_raw": "BCHUSDT"
+  },
+  {
+    "symbol": "BDXN/USDT",
+    "binance_volume_usd": 4616755.08,
+    "bybit_volume_usd": 995788.2,
+    "binance_symbol_raw": "BDXNUSDT",
+    "bybit_symbol_raw": "BDXNUSDT"
+  },
+  {
+    "symbol": "BERA/USDT",
+    "binance_volume_usd": 18218296.52,
+    "bybit_volume_usd": 4788038.45,
+    "binance_symbol_raw": "BERAUSDT",
+    "bybit_symbol_raw": "BERAUSDT"
+  },
+  {
+    "symbol": "BICO/USDT",
+    "binance_volume_usd": 1984325.33,
+    "bybit_volume_usd": 312013.65,
+    "binance_symbol_raw": "BICOUSDT",
+    "bybit_symbol_raw": "BICOUSDT"
+  },
+  {
+    "symbol": "BIGTIME/USDT",
+    "binance_volume_usd": 2632237.34,
+    "bybit_volume_usd": 706625.12,
+    "binance_symbol_raw": "BIGTIMEUSDT",
+    "bybit_symbol_raw": "BIGTIMEUSDT"
+  },
+  {
+    "symbol": "BIO/USDT",
+    "binance_volume_usd": 313493616.01,
+    "bybit_volume_usd": 61588297.51,
+    "binance_symbol_raw": "BIOUSDT",
+    "bybit_symbol_raw": "BIOUSDT"
+  },
+  {
+    "symbol": "BLUR/USDT",
+    "binance_volume_usd": 4384447.83,
+    "bybit_volume_usd": 1125275.94,
+    "binance_symbol_raw": "BLURUSDT",
+    "bybit_symbol_raw": "BLURUSDT"
+  },
+  {
+    "symbol": "BNB/USDT",
+    "binance_volume_usd": 317645575.43,
+    "bybit_volume_usd": 48863308.23,
+    "binance_symbol_raw": "BNBUSDT",
+    "bybit_symbol_raw": "BNBUSDT"
+  },
+  {
+    "symbol": "BOME/USDT",
+    "binance_volume_usd": 15624672.17,
+    "bybit_volume_usd": 4991490.52,
+    "binance_symbol_raw": "BOMEUSDT",
+    "bybit_symbol_raw": "BOMEUSDT"
+  },
+  {
+    "symbol": "BR/USDT",
+    "binance_volume_usd": 1588352.31,
+    "bybit_volume_usd": 396121.06,
+    "binance_symbol_raw": "BRUSDT",
+    "bybit_symbol_raw": "BRUSDT"
+  },
+  {
+    "symbol": "BRETT/USDT",
+    "binance_volume_usd": 7866458.92,
+    "bybit_volume_usd": 5398355.28,
+    "binance_symbol_raw": "BRETTUSDT",
+    "bybit_symbol_raw": "BRETTUSDT"
+  },
+  {
+    "symbol": "BSV/USDT",
+    "binance_volume_usd": 1119225.68,
+    "bybit_volume_usd": 356985.88,
+    "binance_symbol_raw": "BSVUSDT",
+    "bybit_symbol_raw": "BSVUSDT"
+  },
+  {
+    "symbol": "BTC/USDT",
+    "binance_volume_usd": 6610794582.81,
+    "bybit_volume_usd": 3181994356.95,
+    "binance_symbol_raw": "BTCUSDT",
+    "bybit_symbol_raw": "BTCUSDT"
+  },
+  {
+    "symbol": "BTR/USDT",
+    "binance_volume_usd": 31064115.43,
+    "bybit_volume_usd": 4901993.19,
+    "binance_symbol_raw": "BTRUSDT",
+    "bybit_symbol_raw": "BTRUSDT"
+  },
+  {
+    "symbol": "C/USDT",
+    "binance_volume_usd": 50750571.18,
+    "bybit_volume_usd": 5029358.08,
+    "binance_symbol_raw": "CUSDT",
+    "bybit_symbol_raw": "CUSDT"
+  },
+  {
+    "symbol": "C98/USDT",
+    "binance_volume_usd": 3470298.92,
+    "bybit_volume_usd": 1021310.13,
+    "binance_symbol_raw": "C98USDT",
+    "bybit_symbol_raw": "C98USDT"
+  },
+  {
+    "symbol": "CAKE/USDT",
+    "binance_volume_usd": 7862741.06,
+    "bybit_volume_usd": 1322642.56,
+    "binance_symbol_raw": "CAKEUSDT",
+    "bybit_symbol_raw": "CAKEUSDT"
+  },
+  {
+    "symbol": "CARV/USDT",
+    "binance_volume_usd": 959849.45,
+    "bybit_volume_usd": 305472.54,
+    "binance_symbol_raw": "CARVUSDT",
+    "bybit_symbol_raw": "CARVUSDT"
+  },
+  {
+    "symbol": "CATI/USDT",
+    "binance_volume_usd": 3020662.77,
+    "bybit_volume_usd": 922956.94,
+    "binance_symbol_raw": "CATIUSDT",
+    "bybit_symbol_raw": "CATIUSDT"
+  },
+  {
+    "symbol": "CELO/USDT",
+    "binance_volume_usd": 4886343.68,
+    "bybit_volume_usd": 739751.0,
+    "binance_symbol_raw": "CELOUSDT",
+    "bybit_symbol_raw": "CELOUSDT"
+  },
+  {
+    "symbol": "CFX/USDT",
+    "binance_volume_usd": 24238877.1,
+    "bybit_volume_usd": 3338238.12,
+    "binance_symbol_raw": "CFXUSDT",
+    "bybit_symbol_raw": "CFXUSDT"
+  },
+  {
+    "symbol": "CGPT/USDT",
+    "binance_volume_usd": 3261423.82,
+    "bybit_volume_usd": 631830.99,
+    "binance_symbol_raw": "CGPTUSDT",
+    "bybit_symbol_raw": "CGPTUSDT"
+  },
+  {
+    "symbol": "CHILLGUY/USDT",
+    "binance_volume_usd": 6221738.66,
+    "bybit_volume_usd": 1686569.9,
+    "binance_symbol_raw": "CHILLGUYUSDT",
+    "bybit_symbol_raw": "CHILLGUYUSDT"
+  },
+  {
+    "symbol": "CHR/USDT",
+    "binance_volume_usd": 2209230.45,
+    "bybit_volume_usd": 419342.46,
+    "binance_symbol_raw": "CHRUSDT",
+    "bybit_symbol_raw": "CHRUSDT"
+  },
+  {
+    "symbol": "CHZ/USDT",
+    "binance_volume_usd": 6171898.16,
+    "bybit_volume_usd": 796182.7,
+    "binance_symbol_raw": "CHZUSDT",
+    "bybit_symbol_raw": "CHZUSDT"
+  },
+  {
+    "symbol": "CKB/USDT",
+    "binance_volume_usd": 3646372.51,
+    "bybit_volume_usd": 641134.14,
+    "binance_symbol_raw": "CKBUSDT",
+    "bybit_symbol_raw": "CKBUSDT"
+  },
+  {
+    "symbol": "COMP/USDT",
+    "binance_volume_usd": 7935632.68,
+    "bybit_volume_usd": 1096302.01,
+    "binance_symbol_raw": "COMPUSDT",
+    "bybit_symbol_raw": "COMPUSDT"
+  },
+  {
+    "symbol": "COOKIE/USDT",
+    "binance_volume_usd": 7531827.97,
+    "bybit_volume_usd": 1739173.59,
+    "binance_symbol_raw": "COOKIEUSDT",
+    "bybit_symbol_raw": "COOKIEUSDT"
+  },
+  {
+    "symbol": "COW/USDT",
+    "binance_volume_usd": 2507405.44,
+    "bybit_volume_usd": 430536.19,
+    "binance_symbol_raw": "COWUSDT",
+    "bybit_symbol_raw": "COWUSDT"
+  },
+  {
+    "symbol": "CRV/USDT",
+    "binance_volume_usd": 80020953.61,
+    "bybit_volume_usd": 26270496.23,
+    "binance_symbol_raw": "CRVUSDT",
+    "bybit_symbol_raw": "CRVUSDT"
+  },
+  {
+    "symbol": "CTSI/USDT",
+    "binance_volume_usd": 13186930.42,
+    "bybit_volume_usd": 2417895.97,
+    "binance_symbol_raw": "CTSIUSDT",
+    "bybit_symbol_raw": "CTSIUSDT"
+  },
+  {
+    "symbol": "CUDIS/USDT",
+    "binance_volume_usd": 4287723.87,
+    "bybit_volume_usd": 859048.94,
+    "binance_symbol_raw": "CUDISUSDT",
+    "bybit_symbol_raw": "CUDISUSDT"
+  },
+  {
+    "symbol": "CVX/USDT",
+    "binance_volume_usd": 1438301.64,
+    "bybit_volume_usd": 541869.96,
+    "binance_symbol_raw": "CVXUSDT",
+    "bybit_symbol_raw": "CVXUSDT"
+  },
+  {
+    "symbol": "CYBER/USDT",
+    "binance_volume_usd": 17739247.71,
+    "bybit_volume_usd": 4344101.49,
+    "binance_symbol_raw": "CYBERUSDT",
+    "bybit_symbol_raw": "CYBERUSDT"
+  },
+  {
+    "symbol": "DAM/USDT",
+    "binance_volume_usd": 10339409.76,
+    "bybit_volume_usd": 2923456.76,
+    "binance_symbol_raw": "DAMUSDT",
+    "bybit_symbol_raw": "DAMUSDT"
+  },
+  {
+    "symbol": "DASH/USDT",
+    "binance_volume_usd": 3020822.34,
+    "bybit_volume_usd": 376443.26,
+    "binance_symbol_raw": "DASHUSDT",
+    "bybit_symbol_raw": "DASHUSDT"
+  },
+  {
+    "symbol": "DEEP/USDT",
+    "binance_volume_usd": 1861248.11,
+    "bybit_volume_usd": 1133985.15,
+    "binance_symbol_raw": "DEEPUSDT",
+    "bybit_symbol_raw": "DEEPUSDT"
+  },
+  {
+    "symbol": "DEGEN/USDT",
+    "binance_volume_usd": 1734998.71,
+    "bybit_volume_usd": 689427.6,
+    "binance_symbol_raw": "DEGENUSDT",
+    "bybit_symbol_raw": "DEGENUSDT"
+  },
+  {
+    "symbol": "DEXE/USDT",
+    "binance_volume_usd": 2262442.74,
+    "bybit_volume_usd": 353566.3,
+    "binance_symbol_raw": "DEXEUSDT",
+    "bybit_symbol_raw": "DEXEUSDT"
+  },
+  {
+    "symbol": "DIA/USDT",
+    "binance_volume_usd": 5033604.15,
+    "bybit_volume_usd": 739044.97,
+    "binance_symbol_raw": "DIAUSDT",
+    "bybit_symbol_raw": "DIAUSDT"
+  },
+  {
+    "symbol": "DOGE/USDT",
+    "binance_volume_usd": 612684113.84,
+    "bybit_volume_usd": 212411241.11,
+    "binance_symbol_raw": "DOGEUSDT",
+    "bybit_symbol_raw": "DOGEUSDT"
+  },
+  {
+    "symbol": "DOGS/USDT",
+    "binance_volume_usd": 7159540.2,
+    "bybit_volume_usd": 1869135.62,
+    "binance_symbol_raw": "DOGSUSDT",
+    "bybit_symbol_raw": "DOGSUSDT"
+  },
+  {
+    "symbol": "DOLO/USDT",
+    "binance_volume_usd": 182086680.84,
+    "bybit_volume_usd": 23748100.78,
+    "binance_symbol_raw": "DOLOUSDT",
+    "bybit_symbol_raw": "DOLOUSDT"
+  },
+  {
+    "symbol": "DOOD/USDT",
+    "binance_volume_usd": 1626746.6,
+    "bybit_volume_usd": 382294.55,
+    "binance_symbol_raw": "DOODUSDT",
+    "bybit_symbol_raw": "DOODUSDT"
+  },
+  {
+    "symbol": "DOT/USDT",
+    "binance_volume_usd": 105660031.05,
+    "bybit_volume_usd": 38964456.73,
+    "binance_symbol_raw": "DOTUSDT",
+    "bybit_symbol_raw": "DOTUSDT"
+  },
+  {
+    "symbol": "DRIFT/USDT",
+    "binance_volume_usd": 1175839.73,
+    "bybit_volume_usd": 1021758.38,
+    "binance_symbol_raw": "DRIFTUSDT",
+    "bybit_symbol_raw": "DRIFTUSDT"
+  },
+  {
+    "symbol": "DYDX/USDT",
+    "binance_volume_usd": 19354896.87,
+    "bybit_volume_usd": 4304253.04,
+    "binance_symbol_raw": "DYDXUSDT",
+    "bybit_symbol_raw": "DYDXUSDT"
+  },
+  {
+    "symbol": "DYM/USDT",
+    "binance_volume_usd": 2915017.68,
+    "bybit_volume_usd": 607435.43,
+    "binance_symbol_raw": "DYMUSDT",
+    "bybit_symbol_raw": "DYMUSDT"
+  },
+  {
+    "symbol": "EDU/USDT",
+    "binance_volume_usd": 2338718.83,
+    "bybit_volume_usd": 365927.0,
+    "binance_symbol_raw": "EDUUSDT",
+    "bybit_symbol_raw": "EDUUSDT"
+  },
+  {
+    "symbol": "EGLD/USDT",
+    "binance_volume_usd": 5542766.93,
+    "bybit_volume_usd": 1036561.83,
+    "binance_symbol_raw": "EGLDUSDT",
+    "bybit_symbol_raw": "EGLDUSDT"
+  },
+  {
+    "symbol": "EIGEN/USDT",
+    "binance_volume_usd": 85583130.44,
+    "bybit_volume_usd": 20837881.66,
+    "binance_symbol_raw": "EIGENUSDT",
+    "bybit_symbol_raw": "EIGENUSDT"
+  },
+  {
+    "symbol": "ENA/USDT",
+    "binance_volume_usd": 676638782.03,
+    "bybit_volume_usd": 294840736.2,
+    "binance_symbol_raw": "ENAUSDT",
+    "bybit_symbol_raw": "ENAUSDT"
+  },
+  {
+    "symbol": "ENJ/USDT",
+    "binance_volume_usd": 2670538.01,
+    "bybit_volume_usd": 449726.98,
+    "binance_symbol_raw": "ENJUSDT",
+    "bybit_symbol_raw": "ENJUSDT"
+  },
+  {
+    "symbol": "ENS/USDT",
+    "binance_volume_usd": 14104622.17,
+    "bybit_volume_usd": 3578630.57,
+    "binance_symbol_raw": "ENSUSDT",
+    "bybit_symbol_raw": "ENSUSDT"
+  },
+  {
+    "symbol": "EPIC/USDT",
+    "binance_volume_usd": 9503322.13,
+    "bybit_volume_usd": 2243846.97,
+    "binance_symbol_raw": "EPICUSDT",
+    "bybit_symbol_raw": "EPICUSDT"
+  },
+  {
+    "symbol": "EPT/USDT",
+    "binance_volume_usd": 4688949.92,
+    "bybit_volume_usd": 839874.86,
+    "binance_symbol_raw": "EPTUSDT",
+    "bybit_symbol_raw": "EPTUSDT"
+  },
+  {
+    "symbol": "ERA/USDT",
+    "binance_volume_usd": 4689321.47,
+    "bybit_volume_usd": 1140857.51,
+    "binance_symbol_raw": "ERAUSDT",
+    "bybit_symbol_raw": "ERAUSDT"
+  },
+  {
+    "symbol": "ESPORTS/USDT",
+    "binance_volume_usd": 4084369.85,
+    "bybit_volume_usd": 1844064.51,
+    "binance_symbol_raw": "ESPORTSUSDT",
+    "bybit_symbol_raw": "ESPORTSUSDT"
+  },
+  {
+    "symbol": "ETC/USDT",
+    "binance_volume_usd": 48528475.17,
+    "bybit_volume_usd": 7707814.02,
+    "binance_symbol_raw": "ETCUSDT",
+    "bybit_symbol_raw": "ETCUSDT"
+  },
+  {
+    "symbol": "ETH/USDT",
+    "binance_volume_usd": 9735266222.42,
+    "bybit_volume_usd": 3527440507.67,
+    "binance_symbol_raw": "ETHUSDT",
+    "bybit_symbol_raw": "ETHUSDT"
+  },
+  {
+    "symbol": "ETHFI/USDT",
+    "binance_volume_usd": 42787460.81,
+    "bybit_volume_usd": 7811043.36,
+    "binance_symbol_raw": "ETHFIUSDT",
+    "bybit_symbol_raw": "ETHFIUSDT"
+  },
+  {
+    "symbol": "ETHW/USDT",
+    "binance_volume_usd": 1090894.97,
+    "bybit_volume_usd": 373624.9,
+    "binance_symbol_raw": "ETHWUSDT",
+    "bybit_symbol_raw": "ETHWUSDT"
+  },
+  {
+    "symbol": "F/USDT",
+    "binance_volume_usd": 3892317.9,
+    "bybit_volume_usd": 734226.55,
+    "binance_symbol_raw": "FUSDT",
+    "bybit_symbol_raw": "FUSDT"
+  },
+  {
+    "symbol": "FARTCOIN/USDT",
+    "binance_volume_usd": 126244946.65,
+    "bybit_volume_usd": 88119365.11,
+    "binance_symbol_raw": "FARTCOINUSDT",
+    "bybit_symbol_raw": "FARTCOINUSDT"
+  },
+  {
+    "symbol": "FHE/USDT",
+    "binance_volume_usd": 3352803.65,
+    "bybit_volume_usd": 772774.33,
+    "binance_symbol_raw": "FHEUSDT",
+    "bybit_symbol_raw": "FHEUSDT"
+  },
+  {
+    "symbol": "FIDA/USDT",
+    "binance_volume_usd": 3367975.46,
+    "bybit_volume_usd": 307271.4,
+    "binance_symbol_raw": "FIDAUSDT",
+    "bybit_symbol_raw": "FIDAUSDT"
+  },
+  {
+    "symbol": "FIL/USDT",
+    "binance_volume_usd": 103211041.95,
+    "bybit_volume_usd": 15322901.01,
+    "binance_symbol_raw": "FILUSDT",
+    "bybit_symbol_raw": "FILUSDT"
+  },
+  {
+    "symbol": "FLOW/USDT",
+    "binance_volume_usd": 9202506.64,
+    "bybit_volume_usd": 1740518.67,
+    "binance_symbol_raw": "FLOWUSDT",
+    "bybit_symbol_raw": "FLOWUSDT"
+  },
+  {
+    "symbol": "FORM/USDT",
+    "binance_volume_usd": 17501101.54,
+    "bybit_volume_usd": 1489082.88,
+    "binance_symbol_raw": "FORMUSDT",
+    "bybit_symbol_raw": "FORMUSDT"
+  },
+  {
+    "symbol": "FXS/USDT",
+    "binance_volume_usd": 3391052.13,
+    "bybit_volume_usd": 959022.28,
+    "binance_symbol_raw": "FXSUSDT",
+    "bybit_symbol_raw": "FXSUSDT"
+  },
+  {
+    "symbol": "GALA/USDT",
+    "binance_volume_usd": 31935670.7,
+    "bybit_volume_usd": 19745203.24,
+    "binance_symbol_raw": "GALAUSDT",
+    "bybit_symbol_raw": "GALAUSDT"
+  },
+  {
+    "symbol": "GAS/USDT",
+    "binance_volume_usd": 2255557.36,
+    "bybit_volume_usd": 512491.63,
+    "binance_symbol_raw": "GASUSDT",
+    "bybit_symbol_raw": "GASUSDT"
+  },
+  {
+    "symbol": "GLM/USDT",
+    "binance_volume_usd": 2051499.11,
+    "bybit_volume_usd": 494664.83,
+    "binance_symbol_raw": "GLMUSDT",
+    "bybit_symbol_raw": "GLMUSDT"
+  },
+  {
+    "symbol": "GMT/USDT",
+    "binance_volume_usd": 7546145.42,
+    "bybit_volume_usd": 3053505.47,
+    "binance_symbol_raw": "GMTUSDT",
+    "bybit_symbol_raw": "GMTUSDT"
+  },
+  {
+    "symbol": "GMX/USDT",
+    "binance_volume_usd": 2471999.23,
+    "bybit_volume_usd": 461085.13,
+    "binance_symbol_raw": "GMXUSDT",
+    "bybit_symbol_raw": "GMXUSDT"
+  },
+  {
+    "symbol": "GOAT/USDT",
+    "binance_volume_usd": 8344096.43,
+    "bybit_volume_usd": 3717437.15,
+    "binance_symbol_raw": "GOATUSDT",
+    "bybit_symbol_raw": "GOATUSDT"
+  },
+  {
+    "symbol": "GPS/USDT",
+    "binance_volume_usd": 53658640.65,
+    "bybit_volume_usd": 10601613.2,
+    "binance_symbol_raw": "GPSUSDT",
+    "bybit_symbol_raw": "GPSUSDT"
+  },
+  {
+    "symbol": "GRASS/USDT",
+    "binance_volume_usd": 3942951.4,
+    "bybit_volume_usd": 3009832.04,
+    "binance_symbol_raw": "GRASSUSDT",
+    "bybit_symbol_raw": "GRASSUSDT"
+  },
+  {
+    "symbol": "GRIFFAIN/USDT",
+    "binance_volume_usd": 6073980.26,
+    "bybit_volume_usd": 1710597.95,
+    "binance_symbol_raw": "GRIFFAINUSDT",
+    "bybit_symbol_raw": "GRIFFAINUSDT"
+  },
+  {
+    "symbol": "GRT/USDT",
+    "binance_volume_usd": 11355867.88,
+    "bybit_volume_usd": 1487892.16,
+    "binance_symbol_raw": "GRTUSDT",
+    "bybit_symbol_raw": "GRTUSDT"
+  },
+  {
+    "symbol": "GTC/USDT",
+    "binance_volume_usd": 5828155.1,
+    "bybit_volume_usd": 1695236.46,
+    "binance_symbol_raw": "GTCUSDT",
+    "bybit_symbol_raw": "GTCUSDT"
+  },
+  {
+    "symbol": "H/USDT",
+    "binance_volume_usd": 43537572.71,
+    "bybit_volume_usd": 17620793.06,
+    "binance_symbol_raw": "HUSDT",
+    "bybit_symbol_raw": "HUSDT"
+  },
+  {
+    "symbol": "HAEDAL/USDT",
+    "binance_volume_usd": 3103649.1,
+    "bybit_volume_usd": 410874.94,
+    "binance_symbol_raw": "HAEDALUSDT",
+    "bybit_symbol_raw": "HAEDALUSDT"
+  },
+  {
+    "symbol": "HBAR/USDT",
+    "binance_volume_usd": 49998399.08,
+    "bybit_volume_usd": 22234028.23,
+    "binance_symbol_raw": "HBARUSDT",
+    "bybit_symbol_raw": "HBARUSDT"
+  },
+  {
+    "symbol": "HEI/USDT",
+    "binance_volume_usd": 8014638.18,
+    "bybit_volume_usd": 2420464.69,
+    "binance_symbol_raw": "HEIUSDT",
+    "bybit_symbol_raw": "HEIUSDT"
+  },
+  {
+    "symbol": "HFT/USDT",
+    "binance_volume_usd": 16497262.08,
+    "bybit_volume_usd": 3726343.06,
+    "binance_symbol_raw": "HFTUSDT",
+    "bybit_symbol_raw": "HFTUSDT"
+  },
+  {
+    "symbol": "HIFI/USDT",
+    "binance_volume_usd": 9047959.27,
+    "bybit_volume_usd": 2682741.43,
+    "binance_symbol_raw": "HIFIUSDT",
+    "bybit_symbol_raw": "HIFIUSDT"
+  },
+  {
+    "symbol": "HIGH/USDT",
+    "binance_volume_usd": 2565221.4,
+    "bybit_volume_usd": 458670.75,
+    "binance_symbol_raw": "HIGHUSDT",
+    "bybit_symbol_raw": "HIGHUSDT"
+  },
+  {
+    "symbol": "HIPPO/USDT",
+    "binance_volume_usd": 4285802.14,
+    "bybit_volume_usd": 900100.9,
+    "binance_symbol_raw": "HIPPOUSDT",
+    "bybit_symbol_raw": "HIPPOUSDT"
+  },
+  {
+    "symbol": "HMSTR/USDT",
+    "binance_volume_usd": 3011082.05,
+    "bybit_volume_usd": 491663.19,
+    "binance_symbol_raw": "HMSTRUSDT",
+    "bybit_symbol_raw": "HMSTRUSDT"
+  },
+  {
+    "symbol": "HOME/USDT",
+    "binance_volume_usd": 5523744.79,
+    "bybit_volume_usd": 1214838.82,
+    "binance_symbol_raw": "HOMEUSDT",
+    "bybit_symbol_raw": "HOMEUSDT"
+  },
+  {
+    "symbol": "HOOK/USDT",
+    "binance_volume_usd": 6230783.76,
+    "bybit_volume_usd": 891243.87,
+    "binance_symbol_raw": "HOOKUSDT",
+    "bybit_symbol_raw": "HOOKUSDT"
+  },
+  {
+    "symbol": "HUMA/USDT",
+    "binance_volume_usd": 19117622.18,
+    "bybit_volume_usd": 3112585.32,
+    "binance_symbol_raw": "HUMAUSDT",
+    "bybit_symbol_raw": "HUMAUSDT"
+  },
+  {
+    "symbol": "HYPE/USDT",
+    "binance_volume_usd": 169219569.96,
+    "bybit_volume_usd": 115526922.85,
+    "binance_symbol_raw": "HYPEUSDT",
+    "bybit_symbol_raw": "HYPEUSDT"
+  },
+  {
+    "symbol": "HYPER/USDT",
+    "binance_volume_usd": 7908172.5,
+    "bybit_volume_usd": 2719915.17,
+    "binance_symbol_raw": "HYPERUSDT",
+    "bybit_symbol_raw": "HYPERUSDT"
+  },
+  {
+    "symbol": "ICNT/USDT",
+    "binance_volume_usd": 1374552.32,
+    "bybit_volume_usd": 370307.51,
+    "binance_symbol_raw": "ICNTUSDT",
+    "bybit_symbol_raw": "ICNTUSDT"
+  },
+  {
+    "symbol": "ICP/USDT",
+    "binance_volume_usd": 21989267.99,
+    "bybit_volume_usd": 5425680.48,
+    "binance_symbol_raw": "ICPUSDT",
+    "bybit_symbol_raw": "ICPUSDT"
+  },
+  {
+    "symbol": "ICX/USDT",
+    "binance_volume_usd": 1485629.47,
+    "bybit_volume_usd": 309059.55,
+    "binance_symbol_raw": "ICXUSDT",
+    "bybit_symbol_raw": "ICXUSDT"
+  },
+  {
+    "symbol": "ID/USDT",
+    "binance_volume_usd": 4726262.53,
+    "bybit_volume_usd": 700526.72,
+    "binance_symbol_raw": "IDUSDT",
+    "bybit_symbol_raw": "IDUSDT"
+  },
+  {
+    "symbol": "ILV/USDT",
+    "binance_volume_usd": 20714802.16,
+    "bybit_volume_usd": 4470243.67,
+    "binance_symbol_raw": "ILVUSDT",
+    "bybit_symbol_raw": "ILVUSDT"
+  },
+  {
+    "symbol": "IMX/USDT",
+    "binance_volume_usd": 8371932.7,
+    "bybit_volume_usd": 1672463.99,
+    "binance_symbol_raw": "IMXUSDT",
+    "bybit_symbol_raw": "IMXUSDT"
+  },
+  {
+    "symbol": "IN/USDT",
+    "binance_volume_usd": 6365917.22,
+    "bybit_volume_usd": 1272418.25,
+    "binance_symbol_raw": "INUSDT",
+    "bybit_symbol_raw": "INUSDT"
+  },
+  {
+    "symbol": "INIT/USDT",
+    "binance_volume_usd": 4854279.39,
+    "bybit_volume_usd": 2220834.83,
+    "binance_symbol_raw": "INITUSDT",
+    "bybit_symbol_raw": "INITUSDT"
+  },
+  {
+    "symbol": "INJ/USDT",
+    "binance_volume_usd": 39753322.25,
+    "bybit_volume_usd": 13311044.46,
+    "binance_symbol_raw": "INJUSDT",
+    "bybit_symbol_raw": "INJUSDT"
+  },
+  {
+    "symbol": "IO/USDT",
+    "binance_volume_usd": 9266174.63,
+    "bybit_volume_usd": 791422.83,
+    "binance_symbol_raw": "IOUSDT",
+    "bybit_symbol_raw": "IOUSDT"
+  },
+  {
+    "symbol": "IOTA/USDT",
+    "binance_volume_usd": 5316729.7,
+    "bybit_volume_usd": 877334.63,
+    "binance_symbol_raw": "IOTAUSDT",
+    "bybit_symbol_raw": "IOTAUSDT"
+  },
+  {
+    "symbol": "IOTX/USDT",
+    "binance_volume_usd": 4699401.07,
+    "bybit_volume_usd": 351210.16,
+    "binance_symbol_raw": "IOTXUSDT",
+    "bybit_symbol_raw": "IOTXUSDT"
+  },
+  {
+    "symbol": "IP/USDT",
+    "binance_volume_usd": 65430067.72,
+    "bybit_volume_usd": 24916880.55,
+    "binance_symbol_raw": "IPUSDT",
+    "bybit_symbol_raw": "IPUSDT"
+  },
+  {
+    "symbol": "JASMY/USDT",
+    "binance_volume_usd": 4457053.53,
+    "bybit_volume_usd": 2364185.75,
+    "binance_symbol_raw": "JASMYUSDT",
+    "bybit_symbol_raw": "JASMYUSDT"
+  },
+  {
+    "symbol": "JELLYJELLY/USDT",
+    "binance_volume_usd": 54879021.77,
+    "bybit_volume_usd": 19292748.27,
+    "binance_symbol_raw": "JELLYJELLYUSDT",
+    "bybit_symbol_raw": "JELLYJELLYUSDT"
+  },
+  {
+    "symbol": "JOE/USDT",
+    "binance_volume_usd": 2183803.96,
+    "bybit_volume_usd": 312578.31,
+    "binance_symbol_raw": "JOEUSDT",
+    "bybit_symbol_raw": "JOEUSDT"
+  },
+  {
+    "symbol": "JST/USDT",
+    "binance_volume_usd": 1707037.56,
+    "bybit_volume_usd": 398216.22,
+    "binance_symbol_raw": "JSTUSDT",
+    "bybit_symbol_raw": "JSTUSDT"
+  },
+  {
+    "symbol": "JTO/USDT",
+    "binance_volume_usd": 13876217.11,
+    "bybit_volume_usd": 4053604.31,
+    "binance_symbol_raw": "JTOUSDT",
+    "bybit_symbol_raw": "JTOUSDT"
+  },
+  {
+    "symbol": "JUP/USDT",
+    "binance_volume_usd": 19133914.9,
+    "bybit_volume_usd": 9388211.83,
+    "binance_symbol_raw": "JUPUSDT",
+    "bybit_symbol_raw": "JUPUSDT"
+  },
+  {
+    "symbol": "KAIA/USDT",
+    "binance_volume_usd": 5874204.2,
+    "bybit_volume_usd": 1404618.19,
+    "binance_symbol_raw": "KAIAUSDT",
+    "bybit_symbol_raw": "KAIAUSDT"
+  },
+  {
+    "symbol": "KAITO/USDT",
+    "binance_volume_usd": 15973502.88,
+    "bybit_volume_usd": 4899668.7,
+    "binance_symbol_raw": "KAITOUSDT",
+    "bybit_symbol_raw": "KAITOUSDT"
+  },
+  {
+    "symbol": "KAS/USDT",
+    "binance_volume_usd": 14959690.39,
+    "bybit_volume_usd": 12312884.73,
+    "binance_symbol_raw": "KASUSDT",
+    "bybit_symbol_raw": "KASUSDT"
+  },
+  {
+    "symbol": "KAVA/USDT",
+    "binance_volume_usd": 5494626.49,
+    "bybit_volume_usd": 582828.39,
+    "binance_symbol_raw": "KAVAUSDT",
+    "bybit_symbol_raw": "KAVAUSDT"
+  },
+  {
+    "symbol": "KDA/USDT",
+    "binance_volume_usd": 1998442.85,
+    "bybit_volume_usd": 535072.61,
+    "binance_symbol_raw": "KDAUSDT",
+    "bybit_symbol_raw": "KDAUSDT"
+  },
+  {
+    "symbol": "KERNEL/USDT",
+    "binance_volume_usd": 7437688.63,
+    "bybit_volume_usd": 1033846.22,
+    "binance_symbol_raw": "KERNELUSDT",
+    "bybit_symbol_raw": "KERNELUSDT"
+  },
+  {
+    "symbol": "KNC/USDT",
+    "binance_volume_usd": 2139324.57,
+    "bybit_volume_usd": 458892.15,
+    "binance_symbol_raw": "KNCUSDT",
+    "bybit_symbol_raw": "KNCUSDT"
+  },
+  {
+    "symbol": "KSM/USDT",
+    "binance_volume_usd": 4994233.6,
+    "bybit_volume_usd": 903904.41,
+    "binance_symbol_raw": "KSMUSDT",
+    "bybit_symbol_raw": "KSMUSDT"
+  },
+  {
+    "symbol": "LA/USDT",
+    "binance_volume_usd": 6035086.5,
+    "bybit_volume_usd": 1918032.44,
+    "binance_symbol_raw": "LAUSDT",
+    "bybit_symbol_raw": "LAUSDT"
+  },
+  {
+    "symbol": "LDO/USDT",
+    "binance_volume_usd": 45006312.69,
+    "bybit_volume_usd": 15949063.89,
+    "binance_symbol_raw": "LDOUSDT",
+    "bybit_symbol_raw": "LDOUSDT"
+  },
+  {
+    "symbol": "LINEA/USDT",
+    "binance_volume_usd": 89007018.13,
+    "bybit_volume_usd": 4328421.3,
+    "binance_symbol_raw": "LINEAUSDT",
+    "bybit_symbol_raw": "LINEAUSDT"
+  },
+  {
+    "symbol": "LINK/USDT",
+    "binance_volume_usd": 329931449.09,
+    "bybit_volume_usd": 104269636.06,
+    "binance_symbol_raw": "LINKUSDT",
+    "bybit_symbol_raw": "LINKUSDT"
+  },
+  {
+    "symbol": "LPT/USDT",
+    "binance_volume_usd": 58189870.83,
+    "bybit_volume_usd": 18942279.78,
+    "binance_symbol_raw": "LPTUSDT",
+    "bybit_symbol_raw": "LPTUSDT"
+  },
+  {
+    "symbol": "LQTY/USDT",
+    "binance_volume_usd": 4547415.78,
+    "bybit_volume_usd": 532609.76,
+    "binance_symbol_raw": "LQTYUSDT",
+    "bybit_symbol_raw": "LQTYUSDT"
+  },
+  {
+    "symbol": "LRC/USDT",
+    "binance_volume_usd": 9647241.44,
+    "bybit_volume_usd": 2715295.73,
+    "binance_symbol_raw": "LRCUSDT",
+    "bybit_symbol_raw": "LRCUSDT"
+  },
+  {
+    "symbol": "LTC/USDT",
+    "binance_volume_usd": 135276678.32,
+    "bybit_volume_usd": 36722928.89,
+    "binance_symbol_raw": "LTCUSDT",
+    "bybit_symbol_raw": "LTCUSDT"
+  },
+  {
+    "symbol": "LUMIA/USDT",
+    "binance_volume_usd": 1357662.39,
+    "bybit_volume_usd": 692173.54,
+    "binance_symbol_raw": "LUMIAUSDT",
+    "bybit_symbol_raw": "LUMIAUSDT"
+  },
+  {
+    "symbol": "LUNA2/USDT",
+    "binance_volume_usd": 2577815.38,
+    "bybit_volume_usd": 326652.17,
+    "binance_symbol_raw": "LUNA2USDT",
+    "bybit_symbol_raw": "LUNA2USDT"
+  },
+  {
+    "symbol": "M/USDT",
+    "binance_volume_usd": 676691595.36,
+    "bybit_volume_usd": 238808355.61,
+    "binance_symbol_raw": "MUSDT",
+    "bybit_symbol_raw": "MUSDT"
+  },
+  {
+    "symbol": "MAGIC/USDT",
+    "binance_volume_usd": 10373399.36,
+    "bybit_volume_usd": 1710331.89,
+    "binance_symbol_raw": "MAGICUSDT",
+    "bybit_symbol_raw": "MAGICUSDT"
+  },
+  {
+    "symbol": "MANA/USDT",
+    "binance_volume_usd": 22323701.74,
+    "bybit_volume_usd": 6462608.15,
+    "binance_symbol_raw": "MANAUSDT",
+    "bybit_symbol_raw": "MANAUSDT"
+  },
+  {
+    "symbol": "MANTA/USDT",
+    "binance_volume_usd": 3325692.94,
+    "bybit_volume_usd": 449121.95,
+    "binance_symbol_raw": "MANTAUSDT",
+    "bybit_symbol_raw": "MANTAUSDT"
+  },
+  {
+    "symbol": "MASK/USDT",
+    "binance_volume_usd": 3665571.89,
+    "bybit_volume_usd": 370414.82,
+    "binance_symbol_raw": "MASKUSDT",
+    "bybit_symbol_raw": "MASKUSDT"
+  },
+  {
+    "symbol": "MAV/USDT",
+    "binance_volume_usd": 38642780.91,
+    "bybit_volume_usd": 9839217.18,
+    "binance_symbol_raw": "MAVUSDT",
+    "bybit_symbol_raw": "MAVUSDT"
+  },
+  {
+    "symbol": "MAVIA/USDT",
+    "binance_volume_usd": 663960.4,
+    "bybit_volume_usd": 414403.32,
+    "binance_symbol_raw": "MAVIAUSDT",
+    "bybit_symbol_raw": "MAVIAUSDT"
+  },
+  {
+    "symbol": "ME/USDT",
+    "binance_volume_usd": 1911891.9,
+    "bybit_volume_usd": 543056.97,
+    "binance_symbol_raw": "MEUSDT",
+    "bybit_symbol_raw": "MEUSDT"
+  },
+  {
+    "symbol": "MELANIA/USDT",
+    "binance_volume_usd": 5872594.68,
+    "bybit_volume_usd": 990794.59,
+    "binance_symbol_raw": "MELANIAUSDT",
+    "bybit_symbol_raw": "MELANIAUSDT"
+  },
+  {
+    "symbol": "MEME/USDT",
+    "binance_volume_usd": 57186759.87,
+    "bybit_volume_usd": 11566897.16,
+    "binance_symbol_raw": "MEMEUSDT",
+    "bybit_symbol_raw": "MEMEUSDT"
+  },
+  {
+    "symbol": "MERL/USDT",
+    "binance_volume_usd": 27770577.9,
+    "bybit_volume_usd": 10409451.23,
+    "binance_symbol_raw": "MERLUSDT",
+    "bybit_symbol_raw": "MERLUSDT"
+  },
+  {
+    "symbol": "MEW/USDT",
+    "binance_volume_usd": 1907084.54,
+    "bybit_volume_usd": 1136234.35,
+    "binance_symbol_raw": "MEWUSDT",
+    "bybit_symbol_raw": "MEWUSDT"
+  },
+  {
+    "symbol": "MINA/USDT",
+    "binance_volume_usd": 4888306.23,
+    "bybit_volume_usd": 627737.23,
+    "binance_symbol_raw": "MINAUSDT",
+    "bybit_symbol_raw": "MINAUSDT"
+  },
+  {
+    "symbol": "MITO/USDT",
+    "binance_volume_usd": 282306243.92,
+    "bybit_volume_usd": 40292649.21,
+    "binance_symbol_raw": "MITOUSDT",
+    "bybit_symbol_raw": "MITOUSDT"
+  },
+  {
+    "symbol": "MOCA/USDT",
+    "binance_volume_usd": 766410.69,
+    "bybit_volume_usd": 441578.02,
+    "binance_symbol_raw": "MOCAUSDT",
+    "bybit_symbol_raw": "MOCAUSDT"
+  },
+  {
+    "symbol": "MOODENG/USDT",
+    "binance_volume_usd": 11801889.38,
+    "bybit_volume_usd": 7852967.69,
+    "binance_symbol_raw": "MOODENGUSDT",
+    "bybit_symbol_raw": "MOODENGUSDT"
+  },
+  {
+    "symbol": "MORPHO/USDT",
+    "binance_volume_usd": 9116993.01,
+    "bybit_volume_usd": 4199303.28,
+    "binance_symbol_raw": "MORPHOUSDT",
+    "bybit_symbol_raw": "MORPHOUSDT"
+  },
+  {
+    "symbol": "MOVE/USDT",
+    "binance_volume_usd": 6890452.73,
+    "bybit_volume_usd": 2281863.46,
+    "binance_symbol_raw": "MOVEUSDT",
+    "bybit_symbol_raw": "MOVEUSDT"
+  },
+  {
+    "symbol": "MUBARAK/USDT",
+    "binance_volume_usd": 6750376.48,
+    "bybit_volume_usd": 658251.31,
+    "binance_symbol_raw": "MUBARAKUSDT",
+    "bybit_symbol_raw": "MUBARAKUSDT"
+  },
+  {
+    "symbol": "MYRO/USDT",
+    "binance_volume_usd": 1583892.87,
+    "bybit_volume_usd": 716953.81,
+    "binance_symbol_raw": "MYROUSDT",
+    "bybit_symbol_raw": "MYROUSDT"
+  },
+  {
+    "symbol": "MYX/USDT",
+    "binance_volume_usd": 448027021.2,
+    "bybit_volume_usd": 120139344.02,
+    "binance_symbol_raw": "MYXUSDT",
+    "bybit_symbol_raw": "MYXUSDT"
+  },
+  {
+    "symbol": "NAORIS/USDT",
+    "binance_volume_usd": 3226203.94,
+    "bybit_volume_usd": 484575.17,
+    "binance_symbol_raw": "NAORISUSDT",
+    "bybit_symbol_raw": "NAORISUSDT"
+  },
+  {
+    "symbol": "NEAR/USDT",
+    "binance_volume_usd": 49100616.75,
+    "bybit_volume_usd": 19098074.97,
+    "binance_symbol_raw": "NEARUSDT",
+    "bybit_symbol_raw": "NEARUSDT"
+  },
+  {
+    "symbol": "NEIROETH/USDT",
+    "binance_volume_usd": 23732129.73,
+    "bybit_volume_usd": 4589284.06,
+    "binance_symbol_raw": "NEIROETHUSDT",
+    "bybit_symbol_raw": "NEIROETHUSDT"
+  },
+  {
+    "symbol": "NEO/USDT",
+    "binance_volume_usd": 9756307.01,
+    "bybit_volume_usd": 1345184.24,
+    "binance_symbol_raw": "NEOUSDT",
+    "bybit_symbol_raw": "NEOUSDT"
+  },
+  {
+    "symbol": "NEWT/USDT",
+    "binance_volume_usd": 11427736.8,
+    "bybit_volume_usd": 2957879.63,
+    "binance_symbol_raw": "NEWTUSDT",
+    "bybit_symbol_raw": "NEWTUSDT"
+  },
+  {
+    "symbol": "NFP/USDT",
+    "binance_volume_usd": 6123614.32,
+    "bybit_volume_usd": 1430549.27,
+    "binance_symbol_raw": "NFPUSDT",
+    "bybit_symbol_raw": "NFPUSDT"
+  },
+  {
+    "symbol": "NIL/USDT",
+    "binance_volume_usd": 8887884.45,
+    "bybit_volume_usd": 2641166.59,
+    "binance_symbol_raw": "NILUSDT",
+    "bybit_symbol_raw": "NILUSDT"
+  },
+  {
+    "symbol": "NMR/USDT",
+    "binance_volume_usd": 1299770453.33,
+    "bybit_volume_usd": 442419660.64,
+    "binance_symbol_raw": "NMRUSDT",
+    "bybit_symbol_raw": "NMRUSDT"
+  },
+  {
+    "symbol": "NOT/USDT",
+    "binance_volume_usd": 7928019.59,
+    "bybit_volume_usd": 3221563.69,
+    "binance_symbol_raw": "NOTUSDT",
+    "bybit_symbol_raw": "NOTUSDT"
+  },
+  {
+    "symbol": "NTRN/USDT",
+    "binance_volume_usd": 6941905.48,
+    "bybit_volume_usd": 1131683.69,
+    "binance_symbol_raw": "NTRNUSDT",
+    "bybit_symbol_raw": "NTRNUSDT"
+  },
+  {
+    "symbol": "NXPC/USDT",
+    "binance_volume_usd": 6204119.11,
+    "bybit_volume_usd": 1417327.03,
+    "binance_symbol_raw": "NXPCUSDT",
+    "bybit_symbol_raw": "NXPCUSDT"
+  },
+  {
+    "symbol": "OBOL/USDT",
+    "binance_volume_usd": 2684048.09,
+    "bybit_volume_usd": 362520.72,
+    "binance_symbol_raw": "OBOLUSDT",
+    "bybit_symbol_raw": "OBOLUSDT"
+  },
+  {
+    "symbol": "OG/USDT",
+    "binance_volume_usd": 16441927.81,
+    "bybit_volume_usd": 2821573.96,
+    "binance_symbol_raw": "OGUSDT",
+    "bybit_symbol_raw": "OGUSDT"
+  },
+  {
+    "symbol": "OGN/USDT",
+    "binance_volume_usd": 7699159.47,
+    "bybit_volume_usd": 1321039.59,
+    "binance_symbol_raw": "OGNUSDT",
+    "bybit_symbol_raw": "OGNUSDT"
+  },
+  {
+    "symbol": "OL/USDT",
+    "binance_volume_usd": 1275721.78,
+    "bybit_volume_usd": 334195.16,
+    "binance_symbol_raw": "OLUSDT",
+    "bybit_symbol_raw": "OLUSDT"
+  },
+  {
+    "symbol": "OM/USDT",
+    "binance_volume_usd": 26885454.37,
+    "bybit_volume_usd": 5645904.71,
+    "binance_symbol_raw": "OMUSDT",
+    "bybit_symbol_raw": "OMUSDT"
+  },
+  {
+    "symbol": "OMNI/USDT",
+    "binance_volume_usd": 40941827.86,
+    "bybit_volume_usd": 15532337.2,
+    "binance_symbol_raw": "OMNIUSDT",
+    "bybit_symbol_raw": "OMNIUSDT"
+  },
+  {
+    "symbol": "ONDO/USDT",
+    "binance_volume_usd": 39130676.24,
+    "bybit_volume_usd": 24852016.79,
+    "binance_symbol_raw": "ONDOUSDT",
+    "bybit_symbol_raw": "ONDOUSDT"
+  },
+  {
+    "symbol": "ONE/USDT",
+    "binance_volume_usd": 2770329.34,
+    "bybit_volume_usd": 328893.83,
+    "binance_symbol_raw": "ONEUSDT",
+    "bybit_symbol_raw": "ONEUSDT"
+  },
+  {
+    "symbol": "ONG/USDT",
+    "binance_volume_usd": 2328275.44,
+    "bybit_volume_usd": 373032.43,
+    "binance_symbol_raw": "ONGUSDT",
+    "bybit_symbol_raw": "ONGUSDT"
+  },
+  {
+    "symbol": "ONT/USDT",
+    "binance_volume_usd": 4521486.24,
+    "bybit_volume_usd": 733813.17,
+    "binance_symbol_raw": "ONTUSDT",
+    "bybit_symbol_raw": "ONTUSDT"
+  },
+  {
+    "symbol": "OP/USDT",
+    "binance_volume_usd": 53873596.0,
+    "bybit_volume_usd": 17046240.19,
+    "binance_symbol_raw": "OPUSDT",
+    "bybit_symbol_raw": "OPUSDT"
+  },
+  {
+    "symbol": "ORCA/USDT",
+    "binance_volume_usd": 1920540.95,
+    "bybit_volume_usd": 332926.24,
+    "binance_symbol_raw": "ORCAUSDT",
+    "bybit_symbol_raw": "ORCAUSDT"
+  },
+  {
+    "symbol": "ORDI/USDT",
+    "binance_volume_usd": 33515252.78,
+    "bybit_volume_usd": 14195751.78,
+    "binance_symbol_raw": "ORDIUSDT",
+    "bybit_symbol_raw": "ORDIUSDT"
+  },
+  {
+    "symbol": "PARTI/USDT",
+    "binance_volume_usd": 10187005.08,
+    "bybit_volume_usd": 2365951.81,
+    "binance_symbol_raw": "PARTIUSDT",
+    "bybit_symbol_raw": "PARTIUSDT"
+  },
+  {
+    "symbol": "PAXG/USDT",
+    "binance_volume_usd": 39451319.81,
+    "bybit_volume_usd": 5858410.26,
+    "binance_symbol_raw": "PAXGUSDT",
+    "bybit_symbol_raw": "PAXGUSDT"
+  },
+  {
+    "symbol": "PENDLE/USDT",
+    "binance_volume_usd": 21394693.54,
+    "bybit_volume_usd": 4561305.69,
+    "binance_symbol_raw": "PENDLEUSDT",
+    "bybit_symbol_raw": "PENDLEUSDT"
+  },
+  {
+    "symbol": "PENGU/USDT",
+    "binance_volume_usd": 98005211.21,
+    "bybit_volume_usd": 26504650.49,
+    "binance_symbol_raw": "PENGUUSDT",
+    "bybit_symbol_raw": "PENGUUSDT"
+  },
+  {
+    "symbol": "PEOPLE/USDT",
+    "binance_volume_usd": 10174814.23,
+    "bybit_volume_usd": 2359143.88,
+    "binance_symbol_raw": "PEOPLEUSDT",
+    "bybit_symbol_raw": "PEOPLEUSDT"
+  },
+  {
+    "symbol": "PHA/USDT",
+    "binance_volume_usd": 6178742.37,
+    "bybit_volume_usd": 965505.68,
+    "binance_symbol_raw": "PHAUSDT",
+    "bybit_symbol_raw": "PHAUSDT"
+  },
+  {
+    "symbol": "PHB/USDT",
+    "binance_volume_usd": 2903564.17,
+    "bybit_volume_usd": 411774.98,
+    "binance_symbol_raw": "PHBUSDT",
+    "bybit_symbol_raw": "PHBUSDT"
+  },
+  {
+    "symbol": "PIPPIN/USDT",
+    "binance_volume_usd": 32764788.34,
+    "bybit_volume_usd": 8592443.36,
+    "binance_symbol_raw": "PIPPINUSDT",
+    "bybit_symbol_raw": "PIPPINUSDT"
+  },
+  {
+    "symbol": "PIXEL/USDT",
+    "binance_volume_usd": 2325307.87,
+    "bybit_volume_usd": 330027.72,
+    "binance_symbol_raw": "PIXELUSDT",
+    "bybit_symbol_raw": "PIXELUSDT"
+  },
+  {
+    "symbol": "PLUME/USDT",
+    "binance_volume_usd": 16782214.31,
+    "bybit_volume_usd": 3812528.74,
+    "binance_symbol_raw": "PLUMEUSDT",
+    "bybit_symbol_raw": "PLUMEUSDT"
+  },
+  {
+    "symbol": "PNUT/USDT",
+    "binance_volume_usd": 29240014.23,
+    "bybit_volume_usd": 5216296.27,
+    "binance_symbol_raw": "PNUTUSDT",
+    "bybit_symbol_raw": "PNUTUSDT"
+  },
+  {
+    "symbol": "POL/USDT",
+    "binance_volume_usd": 37806109.87,
+    "bybit_volume_usd": 23160075.25,
+    "binance_symbol_raw": "POLUSDT",
+    "bybit_symbol_raw": "POLUSDT"
+  },
+  {
+    "symbol": "PONKE/USDT",
+    "binance_volume_usd": 2153477.69,
+    "bybit_volume_usd": 885490.15,
+    "binance_symbol_raw": "PONKEUSDT",
+    "bybit_symbol_raw": "PONKEUSDT"
+  },
+  {
+    "symbol": "POPCAT/USDT",
+    "binance_volume_usd": 13318291.16,
+    "bybit_volume_usd": 9806776.87,
+    "binance_symbol_raw": "POPCATUSDT",
+    "bybit_symbol_raw": "POPCATUSDT"
+  },
+  {
+    "symbol": "PORTAL/USDT",
+    "binance_volume_usd": 3982183.72,
+    "bybit_volume_usd": 1036318.41,
+    "binance_symbol_raw": "PORTALUSDT",
+    "bybit_symbol_raw": "PORTALUSDT"
+  },
+  {
+    "symbol": "PROM/USDT",
+    "binance_volume_usd": 1925279.09,
+    "bybit_volume_usd": 793071.8,
+    "binance_symbol_raw": "PROMUSDT",
+    "bybit_symbol_raw": "PROMUSDT"
+  },
+  {
+    "symbol": "PROMPT/USDT",
+    "binance_volume_usd": 18368296.2,
+    "bybit_volume_usd": 4763406.22,
+    "binance_symbol_raw": "PROMPTUSDT",
+    "bybit_symbol_raw": "PROMPTUSDT"
+  },
+  {
+    "symbol": "PROVE/USDT",
+    "binance_volume_usd": 28951270.96,
+    "bybit_volume_usd": 8765412.04,
+    "binance_symbol_raw": "PROVEUSDT",
+    "bybit_symbol_raw": "PROVEUSDT"
+  },
+  {
+    "symbol": "PTB/USDT",
+    "binance_volume_usd": 238412735.15,
+    "bybit_volume_usd": 45809906.24,
+    "binance_symbol_raw": "PTBUSDT",
+    "bybit_symbol_raw": "PTBUSDT"
+  },
+  {
+    "symbol": "PUMPBTC/USDT",
+    "binance_volume_usd": 4003523.78,
+    "bybit_volume_usd": 1889100.28,
+    "binance_symbol_raw": "PUMPBTCUSDT",
+    "bybit_symbol_raw": "PUMPBTCUSDT"
+  },
+  {
+    "symbol": "PUNDIX/USDT",
+    "binance_volume_usd": 4030101.44,
+    "bybit_volume_usd": 737121.97,
+    "binance_symbol_raw": "PUNDIXUSDT",
+    "bybit_symbol_raw": "PUNDIXUSDT"
+  },
+  {
+    "symbol": "PYTH/USDT",
+    "binance_volume_usd": 321429748.13,
+    "bybit_volume_usd": 97358423.36,
+    "binance_symbol_raw": "PYTHUSDT",
+    "bybit_symbol_raw": "PYTHUSDT"
+  },
+  {
+    "symbol": "QNT/USDT",
+    "binance_volume_usd": 4106382.24,
+    "bybit_volume_usd": 567534.46,
+    "binance_symbol_raw": "QNTUSDT",
+    "bybit_symbol_raw": "QNTUSDT"
+  },
+  {
+    "symbol": "QTUM/USDT",
+    "binance_volume_usd": 21046683.3,
+    "bybit_volume_usd": 4713491.05,
+    "binance_symbol_raw": "QTUMUSDT",
+    "bybit_symbol_raw": "QTUMUSDT"
+  },
+  {
+    "symbol": "RARE/USDT",
+    "binance_volume_usd": 3385915.2,
+    "bybit_volume_usd": 683556.83,
+    "binance_symbol_raw": "RAREUSDT",
+    "bybit_symbol_raw": "RAREUSDT"
+  },
+  {
+    "symbol": "RED/USDT",
+    "binance_volume_usd": 262488955.45,
+    "bybit_volume_usd": 100062671.57,
+    "binance_symbol_raw": "REDUSDT",
+    "bybit_symbol_raw": "REDUSDT"
+  },
+  {
+    "symbol": "RENDER/USDT",
+    "binance_volume_usd": 14356845.54,
+    "bybit_volume_usd": 4751982.63,
+    "binance_symbol_raw": "RENDERUSDT",
+    "bybit_symbol_raw": "RENDERUSDT"
+  },
+  {
+    "symbol": "RESOLV/USDT",
+    "binance_volume_usd": 8428100.42,
+    "bybit_volume_usd": 1885937.02,
+    "binance_symbol_raw": "RESOLVUSDT",
+    "bybit_symbol_raw": "RESOLVUSDT"
+  },
+  {
+    "symbol": "REZ/USDT",
+    "binance_volume_usd": 5265265.2,
+    "bybit_volume_usd": 734839.29,
+    "binance_symbol_raw": "REZUSDT",
+    "bybit_symbol_raw": "REZUSDT"
+  },
+  {
+    "symbol": "RLC/USDT",
+    "binance_volume_usd": 25995543.24,
+    "bybit_volume_usd": 3995722.33,
+    "binance_symbol_raw": "RLCUSDT",
+    "bybit_symbol_raw": "RLCUSDT"
+  },
+  {
+    "symbol": "ROSE/USDT",
+    "binance_volume_usd": 4746820.59,
+    "bybit_volume_usd": 737091.65,
+    "binance_symbol_raw": "ROSEUSDT",
+    "bybit_symbol_raw": "ROSEUSDT"
+  },
+  {
+    "symbol": "RPL/USDT",
+    "binance_volume_usd": 2292416.8,
+    "bybit_volume_usd": 425906.66,
+    "binance_symbol_raw": "RPLUSDT",
+    "bybit_symbol_raw": "RPLUSDT"
+  },
+  {
+    "symbol": "RSR/USDT",
+    "binance_volume_usd": 4902755.89,
+    "bybit_volume_usd": 447964.47,
+    "binance_symbol_raw": "RSRUSDT",
+    "bybit_symbol_raw": "RSRUSDT"
+  },
+  {
+    "symbol": "RUNE/USDT",
+    "binance_volume_usd": 10888934.4,
+    "bybit_volume_usd": 2851754.57,
+    "binance_symbol_raw": "RUNEUSDT",
+    "bybit_symbol_raw": "RUNEUSDT"
+  },
+  {
+    "symbol": "RVN/USDT",
+    "binance_volume_usd": 2754530.07,
+    "bybit_volume_usd": 501611.88,
+    "binance_symbol_raw": "RVNUSDT",
+    "bybit_symbol_raw": "RVNUSDT"
+  },
+  {
+    "symbol": "S/USDT",
+    "binance_volume_usd": 14405669.16,
+    "bybit_volume_usd": 4130103.54,
+    "binance_symbol_raw": "SUSDT",
+    "bybit_symbol_raw": "SUSDT"
+  },
+  {
+    "symbol": "SAGA/USDT",
+    "binance_volume_usd": 6026643.46,
+    "bybit_volume_usd": 421613.01,
+    "binance_symbol_raw": "SAGAUSDT",
+    "bybit_symbol_raw": "SAGAUSDT"
+  },
+  {
+    "symbol": "SAHARA/USDT",
+    "binance_volume_usd": 23083794.03,
+    "bybit_volume_usd": 4505606.21,
+    "binance_symbol_raw": "SAHARAUSDT",
+    "bybit_symbol_raw": "SAHARAUSDT"
+  },
+  {
+    "symbol": "SAND/USDT",
+    "binance_volume_usd": 18657594.7,
+    "bybit_volume_usd": 5393742.47,
+    "binance_symbol_raw": "SANDUSDT",
+    "bybit_symbol_raw": "SANDUSDT"
+  },
+  {
+    "symbol": "SAPIEN/USDT",
+    "binance_volume_usd": 176592639.86,
+    "bybit_volume_usd": 46547090.17,
+    "binance_symbol_raw": "SAPIENUSDT",
+    "bybit_symbol_raw": "SAPIENUSDT"
+  },
+  {
+    "symbol": "SEI/USDT",
+    "binance_volume_usd": 69263701.44,
+    "bybit_volume_usd": 35496730.83,
+    "binance_symbol_raw": "SEIUSDT",
+    "bybit_symbol_raw": "SEIUSDT"
+  },
+  {
+    "symbol": "SHELL/USDT",
+    "binance_volume_usd": 5373420.41,
+    "bybit_volume_usd": 839983.23,
+    "binance_symbol_raw": "SHELLUSDT",
+    "bybit_symbol_raw": "SHELLUSDT"
+  },
+  {
+    "symbol": "SIGN/USDT",
+    "binance_volume_usd": 3448973.25,
+    "bybit_volume_usd": 787928.21,
+    "binance_symbol_raw": "SIGNUSDT",
+    "bybit_symbol_raw": "SIGNUSDT"
+  },
+  {
+    "symbol": "SIREN/USDT",
+    "binance_volume_usd": 1905006.4,
+    "bybit_volume_usd": 589779.74,
+    "binance_symbol_raw": "SIRENUSDT",
+    "bybit_symbol_raw": "SIRENUSDT"
+  },
+  {
+    "symbol": "SKATE/USDT",
+    "binance_volume_usd": 2831412.58,
+    "bybit_volume_usd": 1015551.44,
+    "binance_symbol_raw": "SKATEUSDT",
+    "bybit_symbol_raw": "SKATEUSDT"
+  },
+  {
+    "symbol": "SKL/USDT",
+    "binance_volume_usd": 19793780.38,
+    "bybit_volume_usd": 3563609.42,
+    "binance_symbol_raw": "SKLUSDT",
+    "bybit_symbol_raw": "SKLUSDT"
+  },
+  {
+    "symbol": "SKYAI/USDT",
+    "binance_volume_usd": 2878459.2,
+    "bybit_volume_usd": 634122.39,
+    "binance_symbol_raw": "SKYAIUSDT",
+    "bybit_symbol_raw": "SKYAIUSDT"
+  },
+  {
+    "symbol": "SNX/USDT",
+    "binance_volume_usd": 5485887.71,
+    "bybit_volume_usd": 1029762.44,
+    "binance_symbol_raw": "SNXUSDT",
+    "bybit_symbol_raw": "SNXUSDT"
+  },
+  {
+    "symbol": "SOL/USDT",
+    "binance_volume_usd": 2378001980.65,
+    "bybit_volume_usd": 1060437473.72,
+    "binance_symbol_raw": "SOLUSDT",
+    "bybit_symbol_raw": "SOLUSDT"
+  },
+  {
+    "symbol": "SOMI/USDT",
+    "binance_volume_usd": 1722929392.29,
+    "bybit_volume_usd": 522657153.83,
+    "binance_symbol_raw": "SOMIUSDT",
+    "bybit_symbol_raw": "SOMIUSDT"
+  },
+  {
+    "symbol": "SONIC/USDT",
+    "binance_volume_usd": 1048641.73,
+    "bybit_volume_usd": 901829.72,
+    "binance_symbol_raw": "SONICUSDT",
+    "bybit_symbol_raw": "SONICUSDT"
+  },
+  {
+    "symbol": "SOON/USDT",
+    "binance_volume_usd": 9735575.17,
+    "bybit_volume_usd": 3509218.12,
+    "binance_symbol_raw": "SOONUSDT",
+    "bybit_symbol_raw": "SOONUSDT"
+  },
+  {
+    "symbol": "SOPH/USDT",
+    "binance_volume_usd": 3283759.43,
+    "bybit_volume_usd": 559166.48,
+    "binance_symbol_raw": "SOPHUSDT",
+    "bybit_symbol_raw": "SOPHUSDT"
+  },
+  {
+    "symbol": "SPK/USDT",
+    "binance_volume_usd": 33804843.9,
+    "bybit_volume_usd": 3793312.95,
+    "binance_symbol_raw": "SPKUSDT",
+    "bybit_symbol_raw": "SPKUSDT"
+  },
+  {
+    "symbol": "SPX/USDT",
+    "binance_volume_usd": 19084128.03,
+    "bybit_volume_usd": 10740997.76,
+    "binance_symbol_raw": "SPXUSDT",
+    "bybit_symbol_raw": "SPXUSDT"
+  },
+  {
+    "symbol": "SQD/USDT",
+    "binance_volume_usd": 1623658.88,
+    "bybit_volume_usd": 417456.67,
+    "binance_symbol_raw": "SQDUSDT",
+    "bybit_symbol_raw": "SQDUSDT"
+  },
+  {
+    "symbol": "SSV/USDT",
+    "binance_volume_usd": 10217324.65,
+    "bybit_volume_usd": 597361.74,
+    "binance_symbol_raw": "SSVUSDT",
+    "bybit_symbol_raw": "SSVUSDT"
+  },
+  {
+    "symbol": "STG/USDT",
+    "binance_volume_usd": 3381191.67,
+    "bybit_volume_usd": 686116.95,
+    "binance_symbol_raw": "STGUSDT",
+    "bybit_symbol_raw": "STGUSDT"
+  },
+  {
+    "symbol": "STRK/USDT",
+    "binance_volume_usd": 11018097.42,
+    "bybit_volume_usd": 5905375.49,
+    "binance_symbol_raw": "STRKUSDT",
+    "bybit_symbol_raw": "STRKUSDT"
+  },
+  {
+    "symbol": "STX/USDT",
+    "binance_volume_usd": 8412100.35,
+    "bybit_volume_usd": 2545336.36,
+    "binance_symbol_raw": "STXUSDT",
+    "bybit_symbol_raw": "STXUSDT"
+  },
+  {
+    "symbol": "SUI/USDT",
+    "binance_volume_usd": 286301602.26,
+    "bybit_volume_usd": 88008694.51,
+    "binance_symbol_raw": "SUIUSDT",
+    "bybit_symbol_raw": "SUIUSDT"
+  },
+  {
+    "symbol": "SUN/USDT",
+    "binance_volume_usd": 10212150.47,
+    "bybit_volume_usd": 1503471.64,
+    "binance_symbol_raw": "SUNUSDT",
+    "bybit_symbol_raw": "SUNUSDT"
+  },
+  {
+    "symbol": "SUPER/USDT",
+    "binance_volume_usd": 2497950.3,
+    "bybit_volume_usd": 376020.2,
+    "binance_symbol_raw": "SUPERUSDT",
+    "bybit_symbol_raw": "SUPERUSDT"
+  },
+  {
+    "symbol": "SUSHI/USDT",
+    "binance_volume_usd": 10306000.59,
+    "bybit_volume_usd": 3261523.93,
+    "binance_symbol_raw": "SUSHIUSDT",
+    "bybit_symbol_raw": "SUSHIUSDT"
+  },
+  {
+    "symbol": "SWARMS/USDT",
+    "binance_volume_usd": 6528746.84,
+    "bybit_volume_usd": 1630292.57,
+    "binance_symbol_raw": "SWARMSUSDT",
+    "bybit_symbol_raw": "SWARMSUSDT"
+  },
+  {
+    "symbol": "SXT/USDT",
+    "binance_volume_usd": 9103060.97,
+    "bybit_volume_usd": 860045.13,
+    "binance_symbol_raw": "SXTUSDT",
+    "bybit_symbol_raw": "SXTUSDT"
+  },
+  {
+    "symbol": "SYRUP/USDT",
+    "binance_volume_usd": 24073729.0,
+    "bybit_volume_usd": 4146268.12,
+    "binance_symbol_raw": "SYRUPUSDT",
+    "bybit_symbol_raw": "SYRUPUSDT"
+  },
+  {
+    "symbol": "TA/USDT",
+    "binance_volume_usd": 189539217.77,
+    "bybit_volume_usd": 74254994.28,
+    "binance_symbol_raw": "TAUSDT",
+    "bybit_symbol_raw": "TAUSDT"
+  },
+  {
+    "symbol": "TAC/USDT",
+    "binance_volume_usd": 2920150.94,
+    "bybit_volume_usd": 992258.76,
+    "binance_symbol_raw": "TACUSDT",
+    "bybit_symbol_raw": "TACUSDT"
+  },
+  {
+    "symbol": "TANSSI/USDT",
+    "binance_volume_usd": 3546343.03,
+    "bybit_volume_usd": 768388.27,
+    "binance_symbol_raw": "TANSSIUSDT",
+    "bybit_symbol_raw": "TANSSIUSDT"
+  },
+  {
+    "symbol": "TAO/USDT",
+    "binance_volume_usd": 36927829.53,
+    "bybit_volume_usd": 8860093.97,
+    "binance_symbol_raw": "TAOUSDT",
+    "bybit_symbol_raw": "TAOUSDT"
+  },
+  {
+    "symbol": "THE/USDT",
+    "binance_volume_usd": 2466838.2,
+    "bybit_volume_usd": 329819.25,
+    "binance_symbol_raw": "THEUSDT",
+    "bybit_symbol_raw": "THEUSDT"
+  },
+  {
+    "symbol": "THETA/USDT",
+    "binance_volume_usd": 7500917.75,
+    "bybit_volume_usd": 1712254.18,
+    "binance_symbol_raw": "THETAUSDT",
+    "bybit_symbol_raw": "THETAUSDT"
+  },
+  {
+    "symbol": "TIA/USDT",
+    "binance_volume_usd": 77929418.14,
+    "bybit_volume_usd": 12685887.58,
+    "binance_symbol_raw": "TIAUSDT",
+    "bybit_symbol_raw": "TIAUSDT"
+  },
+  {
+    "symbol": "TON/USDT",
+    "binance_volume_usd": 38543045.05,
+    "bybit_volume_usd": 21099846.07,
+    "binance_symbol_raw": "TONUSDT",
+    "bybit_symbol_raw": "TONUSDT"
+  },
+  {
+    "symbol": "TOWNS/USDT",
+    "binance_volume_usd": 38606149.68,
+    "bybit_volume_usd": 7128047.05,
+    "binance_symbol_raw": "TOWNSUSDT",
+    "bybit_symbol_raw": "TOWNSUSDT"
+  },
+  {
+    "symbol": "TRB/USDT",
+    "binance_volume_usd": 61462142.04,
+    "bybit_volume_usd": 19450577.09,
+    "binance_symbol_raw": "TRBUSDT",
+    "bybit_symbol_raw": "TRBUSDT"
+  },
+  {
+    "symbol": "TREE/USDT",
+    "binance_volume_usd": 49825181.23,
+    "bybit_volume_usd": 13166495.04,
+    "binance_symbol_raw": "TREEUSDT",
+    "bybit_symbol_raw": "TREEUSDT"
+  },
+  {
+    "symbol": "TRUMP/USDT",
+    "binance_volume_usd": 105272974.48,
+    "bybit_volume_usd": 35111134.78,
+    "binance_symbol_raw": "TRUMPUSDT",
+    "bybit_symbol_raw": "TRUMPUSDT"
+  },
+  {
+    "symbol": "TRX/USDT",
+    "binance_volume_usd": 467645187.22,
+    "bybit_volume_usd": 121827652.74,
+    "binance_symbol_raw": "TRXUSDT",
+    "bybit_symbol_raw": "TRXUSDT"
+  },
+  {
+    "symbol": "TUT/USDT",
+    "binance_volume_usd": 4940846.41,
+    "bybit_volume_usd": 894455.63,
+    "binance_symbol_raw": "TUTUSDT",
+    "bybit_symbol_raw": "TUTUSDT"
+  },
+  {
+    "symbol": "UMA/USDT",
+    "binance_volume_usd": 10779418.04,
+    "bybit_volume_usd": 1404302.84,
+    "binance_symbol_raw": "UMAUSDT",
+    "bybit_symbol_raw": "UMAUSDT"
+  },
+  {
+    "symbol": "UNI/USDT",
+    "binance_volume_usd": 61222136.85,
+    "bybit_volume_usd": 12127656.43,
+    "binance_symbol_raw": "UNIUSDT",
+    "bybit_symbol_raw": "UNIUSDT"
+  },
+  {
+    "symbol": "USDC/USDT",
+    "binance_volume_usd": 3455579.13,
+    "bybit_volume_usd": 2135009.98,
+    "binance_symbol_raw": "USDCUSDT",
+    "bybit_symbol_raw": "USDCUSDT"
+  },
+  {
+    "symbol": "USELESS/USDT",
+    "binance_volume_usd": 62258801.79,
+    "bybit_volume_usd": 22037148.99,
+    "binance_symbol_raw": "USELESSUSDT",
+    "bybit_symbol_raw": "USELESSUSDT"
+  },
+  {
+    "symbol": "USUAL/USDT",
+    "binance_volume_usd": 12783434.89,
+    "bybit_volume_usd": 3412149.41,
+    "binance_symbol_raw": "USUALUSDT",
+    "bybit_symbol_raw": "USUALUSDT"
+  },
+  {
+    "symbol": "UXLINK/USDT",
+    "binance_volume_usd": 1502228.14,
+    "bybit_volume_usd": 481320.57,
+    "binance_symbol_raw": "UXLINKUSDT",
+    "bybit_symbol_raw": "UXLINKUSDT"
+  },
+  {
+    "symbol": "VANA/USDT",
+    "binance_volume_usd": 14024420.46,
+    "bybit_volume_usd": 3926783.21,
+    "binance_symbol_raw": "VANAUSDT",
+    "bybit_symbol_raw": "VANAUSDT"
+  },
+  {
+    "symbol": "VANRY/USDT",
+    "binance_volume_usd": 2051860.03,
+    "bybit_volume_usd": 321632.16,
+    "binance_symbol_raw": "VANRYUSDT",
+    "bybit_symbol_raw": "VANRYUSDT"
+  },
+  {
+    "symbol": "VELVET/USDT",
+    "binance_volume_usd": 3310531.98,
+    "bybit_volume_usd": 699792.65,
+    "binance_symbol_raw": "VELVETUSDT",
+    "bybit_symbol_raw": "VELVETUSDT"
+  },
+  {
+    "symbol": "VET/USDT",
+    "binance_volume_usd": 12243590.97,
+    "bybit_volume_usd": 1095646.09,
+    "binance_symbol_raw": "VETUSDT",
+    "bybit_symbol_raw": "VETUSDT"
+  },
+  {
+    "symbol": "VINE/USDT",
+    "binance_volume_usd": 7420948.78,
+    "bybit_volume_usd": 2257502.91,
+    "binance_symbol_raw": "VINEUSDT",
+    "bybit_symbol_raw": "VINEUSDT"
+  },
+  {
+    "symbol": "VIRTUAL/USDT",
+    "binance_volume_usd": 43283926.08,
+    "bybit_volume_usd": 23091784.49,
+    "binance_symbol_raw": "VIRTUALUSDT",
+    "bybit_symbol_raw": "VIRTUALUSDT"
+  },
+  {
+    "symbol": "VVV/USDT",
+    "binance_volume_usd": 2044232.53,
+    "bybit_volume_usd": 949211.36,
+    "binance_symbol_raw": "VVVUSDT",
+    "bybit_symbol_raw": "VVVUSDT"
+  },
+  {
+    "symbol": "W/USDT",
+    "binance_volume_usd": 19045607.65,
+    "bybit_volume_usd": 6790964.69,
+    "binance_symbol_raw": "WUSDT",
+    "bybit_symbol_raw": "WUSDT"
+  },
+  {
+    "symbol": "WAL/USDT",
+    "binance_volume_usd": 3977588.78,
+    "bybit_volume_usd": 973340.07,
+    "binance_symbol_raw": "WALUSDT",
+    "bybit_symbol_raw": "WALUSDT"
+  },
+  {
+    "symbol": "WCT/USDT",
+    "binance_volume_usd": 7425606.46,
+    "bybit_volume_usd": 1900045.88,
+    "binance_symbol_raw": "WCTUSDT",
+    "bybit_symbol_raw": "WCTUSDT"
+  },
+  {
+    "symbol": "WIF/USDT",
+    "binance_volume_usd": 125533207.83,
+    "bybit_volume_usd": 134511806.47,
+    "binance_symbol_raw": "WIFUSDT",
+    "bybit_symbol_raw": "WIFUSDT"
+  },
+  {
+    "symbol": "WLD/USDT",
+    "binance_volume_usd": 326971124.61,
+    "bybit_volume_usd": 147663984.89,
+    "binance_symbol_raw": "WLDUSDT",
+    "bybit_symbol_raw": "WLDUSDT"
+  },
+  {
+    "symbol": "WLFI/USDT",
+    "binance_volume_usd": 2660636547.98,
+    "bybit_volume_usd": 508056568.35,
+    "binance_symbol_raw": "WLFIUSDT",
+    "bybit_symbol_raw": "WLFIUSDT"
+  },
+  {
+    "symbol": "WOO/USDT",
+    "binance_volume_usd": 2867775.84,
+    "bybit_volume_usd": 472728.26,
+    "binance_symbol_raw": "WOOUSDT",
+    "bybit_symbol_raw": "WOOUSDT"
+  },
+  {
+    "symbol": "XAI/USDT",
+    "binance_volume_usd": 4736147.86,
+    "bybit_volume_usd": 774116.54,
+    "binance_symbol_raw": "XAIUSDT",
+    "bybit_symbol_raw": "XAIUSDT"
+  },
+  {
+    "symbol": "XCN/USDT",
+    "binance_volume_usd": 1465782.4,
+    "bybit_volume_usd": 498261.62,
+    "binance_symbol_raw": "XCNUSDT",
+    "bybit_symbol_raw": "XCNUSDT"
+  },
+  {
+    "symbol": "XLM/USDT",
+    "binance_volume_usd": 35716858.16,
+    "bybit_volume_usd": 12552010.82,
+    "binance_symbol_raw": "XLMUSDT",
+    "bybit_symbol_raw": "XLMUSDT"
+  },
+  {
+    "symbol": "XMR/USDT",
+    "binance_volume_usd": 18204531.35,
+    "bybit_volume_usd": 5785114.41,
+    "binance_symbol_raw": "XMRUSDT",
+    "bybit_symbol_raw": "XMRUSDT"
+  },
+  {
+    "symbol": "XNY/USDT",
+    "binance_volume_usd": 31628129.96,
+    "bybit_volume_usd": 8287593.73,
+    "binance_symbol_raw": "XNYUSDT",
+    "bybit_symbol_raw": "XNYUSDT"
+  },
+  {
+    "symbol": "XPL/USDT",
+    "binance_volume_usd": 79931215.17,
+    "bybit_volume_usd": 5708901.84,
+    "binance_symbol_raw": "XPLUSDT",
+    "bybit_symbol_raw": "XPLUSDT"
+  },
+  {
+    "symbol": "XRP/USDT",
+    "binance_volume_usd": 529173672.57,
+    "bybit_volume_usd": 210543025.47,
+    "binance_symbol_raw": "XRPUSDT",
+    "bybit_symbol_raw": "XRPUSDT"
+  },
+  {
+    "symbol": "XTZ/USDT",
+    "binance_volume_usd": 6840245.13,
+    "bybit_volume_usd": 1480255.12,
+    "binance_symbol_raw": "XTZUSDT",
+    "bybit_symbol_raw": "XTZUSDT"
+  },
+  {
+    "symbol": "XVG/USDT",
+    "binance_volume_usd": 3423878.51,
+    "bybit_volume_usd": 444158.65,
+    "binance_symbol_raw": "XVGUSDT",
+    "bybit_symbol_raw": "XVGUSDT"
+  },
+  {
+    "symbol": "YALA/USDT",
+    "binance_volume_usd": 26288044.54,
+    "bybit_volume_usd": 5377267.73,
+    "binance_symbol_raw": "YALAUSDT",
+    "bybit_symbol_raw": "YALAUSDT"
+  },
+  {
+    "symbol": "YFI/USDT",
+    "binance_volume_usd": 2729338.7,
+    "bybit_volume_usd": 513696.35,
+    "binance_symbol_raw": "YFIUSDT",
+    "bybit_symbol_raw": "YFIUSDT"
+  },
+  {
+    "symbol": "YGG/USDT",
+    "binance_volume_usd": 3707155.71,
+    "bybit_volume_usd": 696164.73,
+    "binance_symbol_raw": "YGGUSDT",
+    "bybit_symbol_raw": "YGGUSDT"
+  },
+  {
+    "symbol": "ZEC/USDT",
+    "binance_volume_usd": 37100984.01,
+    "bybit_volume_usd": 5642739.76,
+    "binance_symbol_raw": "ZECUSDT",
+    "bybit_symbol_raw": "ZECUSDT"
+  },
+  {
+    "symbol": "ZEN/USDT",
+    "binance_volume_usd": 6270246.98,
+    "bybit_volume_usd": 893725.51,
+    "binance_symbol_raw": "ZENUSDT",
+    "bybit_symbol_raw": "ZENUSDT"
+  },
+  {
+    "symbol": "ZEREBRO/USDT",
+    "binance_volume_usd": 3407866.04,
+    "bybit_volume_usd": 1204551.14,
+    "binance_symbol_raw": "ZEREBROUSDT",
+    "bybit_symbol_raw": "ZEREBROUSDT"
+  },
+  {
+    "symbol": "ZETA/USDT",
+    "binance_volume_usd": 1163448.22,
+    "bybit_volume_usd": 531520.27,
+    "binance_symbol_raw": "ZETAUSDT",
+    "bybit_symbol_raw": "ZETAUSDT"
+  },
+  {
+    "symbol": "ZK/USDT",
+    "binance_volume_usd": 6647838.86,
+    "bybit_volume_usd": 1898201.5,
+    "binance_symbol_raw": "ZKUSDT",
+    "bybit_symbol_raw": "ZKUSDT"
+  },
+  {
+    "symbol": "ZORA/USDT",
+    "binance_volume_usd": 21716109.74,
+    "bybit_volume_usd": 14563833.77,
+    "binance_symbol_raw": "ZORAUSDT",
+    "bybit_symbol_raw": "ZORAUSDT"
+  },
+  {
+    "symbol": "ZRO/USDT",
+    "binance_volume_usd": 11150991.58,
+    "bybit_volume_usd": 3374228.05,
+    "binance_symbol_raw": "ZROUSDT",
+    "bybit_symbol_raw": "ZROUSDT"
+  },
+  {
+    "symbol": "ZRX/USDT",
+    "binance_volume_usd": 11766435.32,
+    "bybit_volume_usd": 2636885.77,
+    "binance_symbol_raw": "ZRXUSDT",
+    "bybit_symbol_raw": "ZRXUSDT"
+  }
+]
